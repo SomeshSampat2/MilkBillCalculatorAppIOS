@@ -26,12 +26,12 @@ A modern iOS app to track daily milk purchases and expenses. Keep track of your 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/MilkBillCalculator.git
+git clone https://github.com/SomeshSampat2/MilkBillCalculatorAppIOS.git
 ```
 
 2. Open the project in Xcode
 ```bash
-cd MilkBillCalculator
+cd MilkBillCalculatorAppIOS
 open MilkBillCalculator.xcodeproj
 ```
 
